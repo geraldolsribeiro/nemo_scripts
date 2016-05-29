@@ -1,0 +1,3 @@
+#!/bin/bash
+
+script-worker link $NEMO_SCRIPT_SELECTED_URIS
