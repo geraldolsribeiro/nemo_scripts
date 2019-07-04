@@ -22,3 +22,11 @@ Scripts for nemo file manager.
   - chmod a+x -R ~/.local/share/nemo/scripts/*
 - All executable files in this folder will appear in the Nemo Scripts menu. 
 - Choosing a script from the menu will run that script.
+
+# Instalação GR
+
+```bash
+mkdir -p ~/.local/share/nemo/
+git clone https://github.com/geraldolsribeiro/nemo_scripts ~/.local/share/nemo/scripts
+chmod a+x -R ~/.local/share/nemo/scripts/*
+```
